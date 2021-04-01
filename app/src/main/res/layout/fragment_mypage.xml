@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="memberInfo"
+            type="com.goodchoice.android.loalending.model.MemberInfo" />
+    </data>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingHorizontal="20dp"
+            android:paddingBottom="50dp">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="51dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="8dp"
+                    android:layout_height="20dp"
+                    android:layout_gravity="center_vertical"
+                    android:background="@color/colorMint" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:text="회원정보"
+                    android:textSize="18dp" />
+            </LinearLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="이름"
+                    android:textSize="14dp"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="82dp"
+                    android:text="@{memberInfo.name}"
+                    android:textSize="14dp"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="이메일"
+                    android:textSize="14dp"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="82dp"
+                    android:text="@{memberInfo.email}"
+                    android:textSize="14dp"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="휴대폰"
+                    android:textSize="14dp"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+                <ImageView
+                    android:layout_width="118dp"
+                    android:layout_height="1dp"
+                    android:background="@color/colorCGrey"
+                    app:layout_constraintTop_toBottomOf="@id/mypage_phone"
+                    app:layout_constraintLeft_toLeftOf="@id/mypage_phone"
+                    />
+                <TextView
+                    android:id="@+id/mypage_phone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="82dp"
+                    android:layout_marginTop="10dp"
+                    android:text="@{memberInfo.phone}"
+                    android:textSize="14dp"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:layout_width="60dp"
+                    android:layout_height="28dp"
+                    android:layout_marginStart="210dp"
+                    android:background="@drawable/background_border_mint"
+                    android:gravity="center"
+                    android:text="수정"
+                    android:textSize="14dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintLeft_toLeftOf="parent" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="21dp"
+                android:layout_marginTop="50dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="8dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/colorMint" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:gravity="center_vertical"
+                    android:text="비밀번호 변경"
+                    android:textSize="18dp" />
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/mypage_pwd_old"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/background_border_cgrey"
+                android:gravity="center_vertical"
+                android:hint="현재 비밀번호를 입력하세요"
+                android:inputType="textPassword"
+                android:paddingHorizontal="10dp"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/mypage_pwd_old_x"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="현재 비밀번호가 일치하지 않습니다"
+                android:textColor="@color/colorRed"
+                android:textSize="12dp"
+                android:visibility="gone" />
+
+            <EditText
+                android:id="@+id/mypage_pwd_new"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/background_border_cgrey"
+                android:gravity="center_vertical"
+                android:hint="새 비밀번호를 입력하세요"
+                android:inputType="textPassword"
+                android:paddingHorizontal="10dp"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/mypage_pwd_type_x"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="비밀번호는 영문+숫자, 8자리 이상으로 입력하세요"
+                android:textColor="@color/colorRed"
+                android:textSize="12dp"
+                android:visibility="gone" />
+
+            <EditText
+                android:id="@+id/mypage_pwd_re"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/background_border_cgrey"
+                android:gravity="center_vertical"
+                android:hint="새 비밀번호를 확인하세요"
+                android:inputType="textPassword"
+                android:paddingHorizontal="10dp"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/mypage_pwd_re_x"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="입력한 비밀번호가 일치하지 않습니다"
+                android:textColor="@color/colorRed"
+                android:textSize="12dp"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/mypage_pw_change"
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:layout_marginTop="30dp"
+                android:background="@color/colorMint"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="center"
+                android:text="변경하기"
+                android:textColor="@color/colorWhite"
+                android:textSize="16dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="21dp"
+                android:layout_marginTop="50dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="8dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/colorMint" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:gravity="center_vertical"
+                    android:text="회원 탈퇴"
+                    android:textSize="18dp" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/mypage_member_secession"
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:layout_marginTop="20dp"
+                android:background="@color/colorTextBlack"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="center"
+                android:text="회원 탈퇴"
+                android:textColor="@color/colorWhite"
+                android:textSize="16dp" />
+
+            <TextView
+                android:id="@+id/mypage_member_logout"
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:layout_marginTop="70dp"
+                android:background="@drawable/background_border_mint"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="center"
+                android:text="로그아웃"
+                android:textColor="@color/colorMint"
+                android:textSize="16dp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</layout>

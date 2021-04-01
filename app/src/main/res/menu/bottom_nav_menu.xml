@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/bottom_home"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/loanFragment"
+        android:icon="@drawable/bottom_loan"
+        android:title="@string/title_loan_detail" />
+
+    <item
+        android:id="@+id/applyActivity"
+        android:icon="@drawable/bottom_apply"
+        android:title="@string/title_loan" />
+<!--    <item-->
+<!--        android:id="@+id/myAssetFragment"-->
+<!--        android:icon="@drawable/bottom_myasset"-->
+<!--        android:title="@string/title_my_asset" />-->
+    <item
+        android:id="@+id/moreFragment"
+        android:icon="@drawable/bottom_more"
+        android:title="@string/title_more" />
+
+</menu>

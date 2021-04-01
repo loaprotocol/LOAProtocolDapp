@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfbec097-500b-4729-8f4a-86280e02a8f7" name="Default Changelist" comment="">
+      <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$IIIZDXA.iml" afterDir="false" />
+      <change afterPath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RIIZDXA.iml" afterDir="false" />
+      <change afterPath="D:/ketStore/loalending.jks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__gun0912_ted_tedpermission_2_2_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/release/app-release.aab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/ui/more/MorePrivacyPolicyFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/loalending_icon-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/app_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/app_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/app_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/app_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/app_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_more_privacy_policy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/loalending_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/loalending_icon_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/loalending.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/loalending_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/loalending_icon_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/loalending_icon_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/loalending.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/loalending_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/loalending_icon_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/loalending_icon_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/loalending.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/loalending_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/loalending_icon_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/loalending_icon_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/loalending.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/loalending_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/loalending_icon_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/loalending_icon_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/loalending.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/loalending_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/loalending_icon_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/loalending_icon_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/loalending_icon_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/mint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/appcompat/group-index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/constraintlayout/group-index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/core/group-index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/fragment/group-index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/lifecycle/group-index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/navigation/group-index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/recyclerview/group-index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/test/espresso/group-index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/test/ext/group-index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/test/group-index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/work/group-index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/com/google/android/material/group-index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/master-index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/org/jetbrains/kotlin/group-index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/sdk-registry.xml/sdk-registry.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/.circleci/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/.github/ISSUE_TEMPLATE/advanced-android-issue-template-for-testing-codelab.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/.github/workflows/build_test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/Event.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/ScrollChildSwipeRefreshLayout.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/TodoApplication.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/Result.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/DefaultTasksRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksDataSource.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksDao.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksLocalDataSource.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/ToDoDatabase.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/remote/TasksRemoteDataSource.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsUtils.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksFilterType.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksListBindings.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/ViewExt.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/drawable/drawer_item_color.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/drawable/ic_add.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/drawable/ic_assignment_turned_in_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/drawable/ic_check_circle_96dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/drawable/ic_done.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/drawable/ic_edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/drawable/ic_filter_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/drawable/ic_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/drawable/ic_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/drawable/ic_statistics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/drawable/ic_statistics_100dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/drawable/ic_statistics_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/drawable/ic_verified_user_96dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/drawable/list_completed_touch_feedback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/drawable/logo_no_fill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/drawable/touch_feedback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/drawable/trash_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/font/opensans_font.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/font/opensans_regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/font/opensans_semibold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/layout/addtask_frag.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/layout/nav_header.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/layout/statistics_frag.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/layout/task_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/layout/taskdetail_frag.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/layout/tasks_act.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/layout/tasks_frag.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/menu/drawer_actions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/menu/filter_tasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/menu/taskdetail_fragment_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/menu/tasks_fragment_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/values-v21/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/values/attrs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/test/java/com/example/android/architecture/blueprints/todoapp/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/app/src/test/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsUtilsTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-testing-starter_code/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../keystore/loalending.jks" afterDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$IGN2A6D" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$IHU5ZLV" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$INAAFLB" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$IOX9G5X" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$IQM422D" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/.gitignore" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/.gitignore" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/build.gradle" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/androidTest/java/com/example/app/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/java/com/example/app/MainActivity.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/java/com/example/app/ui/dashboard/DashboardFragment.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/java/com/example/app/ui/dashboard/DashboardViewModel.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/java/com/example/app/ui/home/HomeFragment.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/java/com/example/app/ui/home/HomeViewModel.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/java/com/example/app/ui/notifications/NotificationsFragment.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/java/com/example/app/ui/notifications/NotificationsViewModel.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/drawable/ic_home_black_24dp.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/drawable/ic_notifications_black_24dp.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/layout/fragment_dashboard.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/layout/fragment_home.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/layout/fragment_notifications.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/menu/bottom_nav_menu.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/navigation/mobile_navigation.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/app/src/test/java/com/example/app/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/build.gradle" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/gradle.properties" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/gradlew" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/gradlew.bat" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RGN2A6D/settings.gradle" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/.gitignore" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/.gitignore" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/build.gradle" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/src/androidTest/java/com/example/dapp2/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/src/main/java/com/example/dapp2/MainActivity.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/app/src/test/java/com/example/dapp2/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/build.gradle" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/gradle.properties" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/gradlew" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/gradlew.bat" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RHU5ZLV/settings.gradle" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/.gitignore" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/.gitignore" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/build.gradle" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/androidTest/java/com/example/aaaa/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/java/com/example/aaaa/data/LoginDataSource.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/java/com/example/aaaa/data/LoginRepository.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/java/com/example/aaaa/data/Result.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/java/com/example/aaaa/data/model/LoggedInUser.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/java/com/example/aaaa/ui/login/LoggedInUserView.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/java/com/example/aaaa/ui/login/LoginActivity.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/java/com/example/aaaa/ui/login/LoginFormState.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/java/com/example/aaaa/ui/login/LoginResult.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/java/com/example/aaaa/ui/login/LoginViewModel.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/java/com/example/aaaa/ui/login/LoginViewModelFactory.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/res/layout/activity_login.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/app/src/test/java/com/example/aaaa/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/build.gradle" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/gradle.properties" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/gradlew" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/gradlew.bat" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$RNAAFLB/settings.gradle" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/.gitignore" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/.gitignore" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/build.gradle" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/src/androidTest/java/com/example/asdf/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/src/main/java/com/example/asdf/MainActivity.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/app/src/test/java/com/example/asdf/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/build.gradle" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/gradle.properties" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/gradlew" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/gradlew.bat" beforeDir="false" />
+      <change beforePath="D:/$RECYCLE.BIN/S-1-5-21-2267536251-228977903-2888573700-1002/$ROX9G5X/settings.gradle" beforeDir="false" />
+      <change beforePath="D:/AndroidStudioProjects/app/src/main/java/com/example/myapplication/MainActivity.kt" beforeDir="false" afterPath="D:/AndroidStudioProjects/app/src/main/java/com/example/myapplication/MainActivity.kt" afterDir="false" />
+      <change beforePath="D:/BornToBit/app/src/main/java/com/goodchoice/android/borntobit/ui/MainActivity.kt" beforeDir="false" afterPath="D:/BornToBit/app/src/main/java/com/goodchoice/android/borntobit/ui/MainActivity.kt" afterDir="false" />
+      <change beforePath="D:/BornToBit/app/src/main/java/com/goodchoice/android/borntobit/ui/home/Home.kt" beforeDir="false" afterPath="D:/BornToBit/app/src/main/java/com/goodchoice/android/borntobit/ui/home/Home.kt" afterDir="false" />
+      <change beforePath="D:/BornToBit/app/src/main/java/com/goodchoice/android/borntobit/util/Util.kt" beforeDir="false" afterPath="D:/BornToBit/app/src/main/java/com/goodchoice/android/borntobit/util/Util.kt" afterDir="false" />
+      <change beforePath="D:/BornToBit/app/src/main/res/layout/home.xml" beforeDir="false" afterPath="D:/BornToBit/app/src/main/res/layout/home.xml" afterDir="false" />
+      <change beforePath="D:/BornToBit/app/src/main/res/layout/main_activity.xml" beforeDir="false" afterPath="D:/BornToBit/app/src/main/res/layout/main_activity.xml" afterDir="false" />
+      <change beforePath="D:/DApp/app/src/main/java/com/example/dapp/RVA/TokenTransferRVA.kt" beforeDir="false" />
+      <change beforePath="D:/DApp/app/src/main/java/com/example/dapp/data/TokenTransfer.kt" beforeDir="false" />
+      <change beforePath="D:/DApp/app/src/main/res/layout/activity_token_deposit.xml" beforeDir="false" />
+      <change beforePath="D:/DApp/app/src/main/res/layout/rv_token_list.xml" beforeDir="false" />
+      <change beforePath="D:/DApp/app/src/main/res/layout/rv_token_transfer.xml" beforeDir="false" />
+      <change beforePath="D:/DAppMVVM/app/src/main/java/com/ohneulen/dapp/compose/DispatchViewModel.kt" beforeDir="false" />
+      <change beforePath="D:/DAppMVVM/app/src/main/java/com/ohneulen/dapp/view/adapter/MyWalletAdapter.kt" beforeDir="false" />
+      <change beforePath="D:/DAppMVVM/app/src/main/java/com/ohneulen/dapp/view/ui/main/MainFragmentViewModel.kt" beforeDir="false" />
+      <change beforePath="D:/DAppMVVM/app/src/main/java/com/ohneulen/dapp/view/viewholder/MyWalletViewHolder.kt" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/App.kt" beforeDir="false" afterPath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/App.kt" afterDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/data/remote/RestaurantResponse.kt" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/di/NetworkModule.kt" beforeDir="false" afterPath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/di/NetworkModule.kt" afterDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/extension/BindingAdapter.kt" beforeDir="false" afterPath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/extension/BindingAdapter.kt" afterDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/model/Restaurant.kt" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/ui/NewScrollView.kt" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/ui/home/HomeAppBarFragment.kt" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/ui/login/LoginViewModel.kt" beforeDir="false" afterPath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/ui/login/LoginViewModel.kt" afterDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/ui/mypage/MyPageAppBarFragment.kt" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/ui/mypage/MyPageMainFragment.kt" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/ui/noti/NotiSettingsAppbarFragment.kt" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/ui/noti/NotiSettingsFragment.kt" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/ui/notification/NotificationAppBarFragment.kt" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/ui/notification/NotificationMainFragment.kt" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/ui/partner/PartnerMapFragment.kt" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/ui/partner/PartnerMenu.kt" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/ui/restaurantDetail/RestaurantDetailFragment.kt" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/ui/search/SearchAppBarFragment.kt" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/ui/search/SearchFilterAdapter.kt" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/ui/search/SearchFilterAppbarFragment.kt" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/ui/search/SearchFilterFragment.kt" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/ui/search/SearchMainFragment.kt" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/ui/search/SearchRestaurantAdapter.kt" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/ui/search/SearchViewModel.kt" beforeDir="false" afterPath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/ui/search/SearchViewModel.kt" afterDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/util/ReceivedCookiesInterceptor.kt" beforeDir="false" afterPath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/util/ReceivedCookiesInterceptor.kt" afterDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/util/UtilFunction().kt" beforeDir="false" afterPath="D:/Ohneulen/app/src/main/java/com/goodchoice/android/ohneulen/util/UtilFunction().kt" afterDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/res/drawable/background_border_lightgrey.xml" beforeDir="false" afterPath="D:/Ohneulen/app/src/main/res/drawable/background_border_lightgrey.xml" afterDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/res/layout/home_appbar_fragment.xml" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/res/layout/noti_appbar_fragment.xml" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/res/layout/noti_fragment.xml" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/res/layout/partner_map_fragment.xml" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/res/layout/partner_menu_fragment.xml" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/res/layout/partner_menu_item.xml" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/res/layout/restaurantdetail_home_fragment.xml" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/res/layout/search_appbar_fragment.xml" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/res/layout/search_filter_appbar_fragment.xml" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/res/layout/search_filter_fragment.xml" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/res/layout/search_filter_item.xml" beforeDir="false" afterPath="D:/Ohneulen/app/src/main/res/layout/search_filter_item.xml" afterDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/res/layout/search_main_fragment.xml" beforeDir="false" />
+      <change beforePath="D:/Ohneulen/app/src/main/res/layout/search_restaurant_item.xml" beforeDir="false" />
+      <change beforePath="D:/RetrofitCoroutine/app/src/main/java/com/example/retrofitcoroutine/DispatchViewModel.kt" beforeDir="false" afterPath="D:/RetrofitCoroutine/app/src/main/java/com/example/retrofitcoroutine/DispatchViewModel.kt" afterDir="false" />
+      <change beforePath="D:/RetrofitCoroutine/app/src/main/java/com/example/retrofitcoroutine/ExViewModel.kt" beforeDir="false" afterPath="D:/RetrofitCoroutine/app/src/main/java/com/example/retrofitcoroutine/ExViewModel.kt" afterDir="false" />
+      <change beforePath="D:/RetrofitCoroutine/app/src/main/java/com/example/retrofitcoroutine/RetrofitInterface.kt" beforeDir="false" afterPath="D:/RetrofitCoroutine/app/src/main/java/com/example/retrofitcoroutine/RetrofitInterface.kt" afterDir="false" />
+      <change beforePath="D:/RetrofitCoroutine/app/src/main/java/com/example/retrofitcoroutine/TokenAdapter.kt" beforeDir="false" afterPath="D:/RetrofitCoroutine/app/src/main/java/com/example/retrofitcoroutine/TokenAdapter.kt" afterDir="false" />
+      <change beforePath="D:/RetrofitCoroutine/app/src/main/java/com/example/retrofitcoroutine/binding/RecyclerViewBinding.kt" beforeDir="false" afterPath="D:/RetrofitCoroutine/app/src/main/java/com/example/retrofitcoroutine/binding/RecyclerViewBinding.kt" afterDir="false" />
+      <change beforePath="D:/RetrofitCoroutine/app/src/main/java/com/example/retrofitcoroutine/data/EthGasStationInfo.kt" beforeDir="false" afterPath="D:/RetrofitCoroutine/app/src/main/java/com/example/retrofitcoroutine/data/EthGasStationInfo.kt" afterDir="false" />
+      <change beforePath="D:/RetrofitCoroutine/app/src/main/java/com/example/retrofitcoroutine/data/MyWalletInfo.kt" beforeDir="false" afterPath="D:/RetrofitCoroutine/app/src/main/java/com/example/retrofitcoroutine/data/MyWalletInfo.kt" afterDir="false" />
+      <change beforePath="D:/RetrofitCoroutine/app/src/main/java/com/example/retrofitcoroutine/data/Token.kt" beforeDir="false" afterPath="D:/RetrofitCoroutine/app/src/main/java/com/example/retrofitcoroutine/data/Token.kt" afterDir="false" />
+      <change beforePath="D:/RetrofitCoroutine/app/src/main/java/com/example/retrofitcoroutine/data/TokenHolder.kt" beforeDir="false" afterPath="D:/RetrofitCoroutine/app/src/main/java/com/example/retrofitcoroutine/data/TokenHolder.kt" afterDir="false" />
+      <change beforePath="D:/RetrofitCoroutine/app/src/main/res/layout/item_wallet_info.xml" beforeDir="false" afterPath="D:/RetrofitCoroutine/app/src/main/res/layout/item_wallet_info.xml" afterDir="false" />
+      <change beforePath="D:/testttttttt/app/src/main/java/com/example/testttttttt/ex.kt" beforeDir="false" />
+      <change beforePath="D:/testttttttt/app/src/main/java/com/example/testttttttt/myDialog.kt" beforeDir="false" />
+      <change beforePath="D:/testttttttt/app/src/main/res/layout/activity_alert_popup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/model/Loan.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/model/Loan.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/ui/HeaderBackActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/ui/HeaderBackActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/ui/WebViewActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/ui/WebViewActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/ui/loan/ApplyListDetailDialog.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/ui/loan/ApplyListDetailDialog.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/ui/loan/ApplyListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/ui/loan/ApplyListFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/ui/loan/LoanDetail02Fragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/ui/loan/LoanDetail02Fragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/ui/loan/LoanListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/ui/loan/LoanListFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/ui/loan/LoanViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/ui/loan/LoanViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/ui/more/MoreFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/ui/more/MoreFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/util/constant/BaseUrl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/util/constant/BaseUrl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/util/constant/Code.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/goodchoice/android/loalending/util/constant/Code.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_apply_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_apply_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_apply_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_apply_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_loan_detail_01.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_loan_detail_01.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_loan_detail_02.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_loan_detail_02.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_loan_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_loan_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_more.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_more.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_more_term.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_more_term.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/header_normal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/header_normal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eeeeee111/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../eeeeee111/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eeeeee111/app/src/main/java/com/goodchoice/android/eeeeee111/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../eeeeee111/app/src/main/java/com/goodchoice/android/eeeeee111/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eeeeee111/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eeeeee111/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eeeeee111/app/src/main/res/layout/fragment_dashboard.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eeeeee111/app/src/main/res/layout/fragment_dashboard.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eeeeee111/app/src/main/res/layout/fragment_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eeeeee111/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eeeeee111/app/src/main/res/navigation/mobile_navigation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eeeeee111/app/src/main/res/navigation/mobile_navigation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node/wallet/btc_lib.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node/wallet/btc_lib.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node/wallet/erc_20.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node/wallet/erc_20.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node/wallet/eth_lib.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node/wallet/eth_lib.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node/wallet/neo_lib.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node/wallet/neo_lib.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node/wallet/qtum_lib.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node/wallet/qtum_lib.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Z_Flip_API_R" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="LoaLending" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="LoaLending" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="LoaLending" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="navigationResourceFile" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Object" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="valueResourceFile" />
+        <option value="Class" />
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Class" />
+        <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="D:\ketStore\loalending.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1o3HsO2SUt4GLDT1mftQmnl4IZW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ApkExportedModule" value="app" />
+    <property name="BundleExportedModule" value="app" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Z_Flip_API_R" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-03-30T02:51:27.639Z" />
+    <property name="ExportApk.ApkPath" value="D:\workspace\LoaLending\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/color" />
+    <property name="project.structure.last.edited" value="Suggestions" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.goodchoice.android.loalending.ui.more" />
+      <recent name="com.goodchoice.android.loalending.ui.myAsset" />
+      <recent name="com.goodchoice.android.loalending.ui" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.goodchoice.android.loalending.network.service" />
+      <recent name="com.goodchoice.android.loalending.util.constant" />
+      <recent name="com.goodchoice.android.loalending.ui.loan" />
+      <recent name="com.goodchoice.android.loalending.ui" />
+      <recent name="com.goodchoice.android.loalending.view" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.goodchoice.android.loalending" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\LoaLending\app\src\main\res\color" />
+      <recent name="D:\workspace\LoaLending\app\src\main\res\drawable" />
+      <recent name="D:\workspace\LoaLending\app" />
+      <recent name="D:\workspace\LoaLending\app\src\main\res\layout" />
+      <recent name="D:\workspace\LoaLending\app\src\main\res\navigation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loalending in app" type="AndroidJUnit" factoryName="Android JUnit" nameIsGenerated="true">
+      <module name="app" />
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="directory" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <dir value="$PROJECT_DIR$/app/src/test/java/com/goodchoice/android/loalending" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleInstrumentedT..." type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="TESTING_TYPE" value="2" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="com.goodchoice.android.loalending.ExampleInstrumentedTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoaLending [signingReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.LoaLending [signingReport]" />
+        <item itemvalue="Android Instrumented Tests.ExampleInstrumentedT..." />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfbec097-500b-4729-8f4a-86280e02a8f7" name="Default Changelist" comment="" />
+      <created>1612508559334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612508559334</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1368" y="178" key="#Inspections" timestamp="1617083277376">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="178" key="#Inspections/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617083277376" />
+    <state x="-1443" y="252" key="#PSD" timestamp="1616488823175">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1443" y="252" key="#PSD/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1616488823175" />
+    <state x="-1171" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1617070386157">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1171" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617070386157" />
+    <state x="-1382" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1615428008078">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1382" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1615428008078" />
+    <state x="-1149" y="394" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1613440180732">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1149" y="394" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1613440180732" />
+    <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616665358096">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1616665358096" />
+    <state x="-1345" y="184" key="#loalending_in_app" timestamp="1613442075591">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1345" y="184" key="#loalending_in_app/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1613442075591" />
+    <state x="-1214" y="168" width="512" height="709" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1616463599004">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1214" y="168" width="512" height="709" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1616463599004" />
+    <state x="-1214" y="412" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1612927699634">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1214" y="412" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1612927699634" />
+    <state x="-1380" y="275" key="AndroidCreateResourceDirectoryDialog" timestamp="1616738426803">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1380" y="275" key="AndroidCreateResourceDirectoryDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1616738426802" />
+    <state x="-1427" y="306" key="AndroidCreateResourceFileDialog" timestamp="1617012049317">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1427" y="306" key="AndroidCreateResourceFileDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617012049317" />
+    <state x="431" y="303" key="AndroidCreateResourceFileDialog/0.25.1680.945@0.25.1680.945" timestamp="1616322689226" />
+    <state x="-1708" y="114" width="1542" height="802" key="DiffContextDialog" timestamp="1613354885730">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1708" y="114" width="1542" height="802" key="DiffContextDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1613354885730" />
+    <state x="-1157" y="270" key="FileChooserDialogImpl" timestamp="1617014290032">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1157" y="270" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617014290032" />
+    <state width="1877" height="368" key="GridCell.Tab.0.bottom" timestamp="1617169745166">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="368" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617169745166" />
+    <state width="1877" height="368" key="GridCell.Tab.0.center" timestamp="1617169745166">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="368" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617169745166" />
+    <state width="1877" height="368" key="GridCell.Tab.0.left" timestamp="1617169745165">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="368" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617169745165" />
+    <state width="1877" height="368" key="GridCell.Tab.0.right" timestamp="1617169745166">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="368" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617169745166" />
+    <state x="-1780" y="126" width="1542" height="802" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1615429959557">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1780" y="126" width="1542" height="802" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1615429959557" />
+    <state x="-1373" y="131" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1616035849960">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1373" y="131" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1616035849960" />
+    <state x="-1133" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615535896063">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1133" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1615535896063" />
+    <state x="0" y="0" width="1650" height="704" maximized="true" key="dock-window-1" timestamp="1616639297322">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="1650" height="704" maximized="true" key="dock-window-1/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1616639297322" />
+    <state x="0" y="0" width="1577" height="1047" key="dock-window-2" timestamp="1616659658180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="1577" height="1047" key="dock-window-2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1616659658180" />
+    <state x="-1485" y="212" width="1577" height="704" maximized="true" key="dock-window-3" timestamp="1617001874302">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1485" y="212" width="1577" height="704" maximized="true" key="dock-window-3/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617001874302" />
+    <state x="-1310" y="60" width="1621" height="715" key="dock-window-3/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1616582063974" />
+    <state x="-1270" y="119" width="786" height="807" key="find.popup" timestamp="1617008744309">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1270" y="119" width="786" height="807" key="find.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617008744309" />
+    <state x="-1219" y="161" key="refactoring.ChangeSignatureDialog" timestamp="1616660405453">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1219" y="161" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1616660405453" />
+    <state x="-1281" y="240" key="run.anything.popup" timestamp="1616658744763">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1281" y="240" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1616658744763" />
+    <state x="-1274" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1617008729070">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1274" y="233" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617008729070" />
+    <state x="565" y="237" width="670" height="617" key="search.everywhere.popup/0.25.1680.945@0.25.1680.945" timestamp="1616322006269" />
+  </component>
+</project>

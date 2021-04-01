@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingHorizontal="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="입금 주소"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginTop="10dp">
+
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/background_border_cgrey"
+                android:gravity="center_vertical"
+                android:paddingStart="10dp"
+                android:text="14M55eF2dbWLHvgsvHCbR2RefxVdfw"
+                android:textSize="12dp"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toLeftOf="@id/deposit_loa_account_copy" />
+
+
+            <TextView
+                android:id="@+id/deposit_loa_account_copy"
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:background="@color/colorTextBlack"
+                android:gravity="center"
+                android:text="복사"
+                android:textColor="@color/colorWhite"
+                android:textSize="15dp"
+                app:layout_constraintRight_toRightOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="8dp"
+            android:layout_marginVertical="20dp"
+            android:background="@color/colorDivider" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="QR 코드"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/qrcode_example" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@color/colorEGrey"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="입금 시 주의사항"
+                android:textSize="14dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:lineHeight="18dp"
+                android:text="
+•위 주소로는 LOA만 입금 가능합니다.
+\n•해당 주소로 다른 디지털 자산을 입금 시도할 경우에 발생할 수 있는 오류/손실은 복구 불가능합니다.
+\n•입금은 자동으로 처리되며 네트워크 상황에 따라 소요 시간이 달라질 수 있습니다.
+\n•위 주소는 입금전용 주소입니다."
+                android:textSize="12dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</layout>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="100dp"
+        android:orientation="vertical">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/background_border_cgrey"
+                android:hint="이메일을 입력해주세요"
+                android:paddingStart="20dp"
+                android:textSize="15dp"
+                tools:ignore="RtlSymmetry" />
+
+            <ImageView
+                android:id="@+id/sign_up_email_reset"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingStart="10dp"
+                android:paddingEnd="20dp"
+                android:src="@drawable/edittext_reset"
+                android:visibility="gone"
+                app:layout_constraintRight_toRightOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="이미 가입된 계정입니다"
+            android:textColor="@color/colorRed"
+            android:textSize="12dp"
+            android:visibility="gone" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/background_border_cgrey"
+                android:hint="비밀번호를 입력하세요 (영문+숫자, 8자리 이상)"
+                android:paddingStart="20dp"
+                android:textSize="15dp"
+                tools:ignore="RtlSymmetry" />
+
+            <ImageView
+                android:id="@+id/sign_up_pw_reset"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingStart="10dp"
+                android:paddingEnd="20dp"
+                android:src="@drawable/edittext_reset"
+                android:visibility="gone"
+                app:layout_constraintRight_toRightOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="영문+숫자, 8자리 이상으로 입력하세요."
+            android:textColor="@color/colorRed"
+            android:textSize="12dp"
+            android:visibility="gone" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/background_border_cgrey"
+                android:hint="입력한 비밀번호를 다시 입력하세요"
+                android:paddingStart="20dp"
+                android:textSize="15dp"
+                tools:ignore="RtlSymmetry" />
+
+            <ImageView
+                android:id="@+id/sign_up_pw2_reset"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingStart="10dp"
+                android:paddingEnd="20dp"
+                android:src="@drawable/edittext_reset"
+                android:visibility="gone"
+                app:layout_constraintRight_toRightOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="입력한 비밀번호가 일치하지 않습니다."
+            android:textColor="@color/colorRed"
+            android:textSize="12dp"
+            android:visibility="gone" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="46dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/colorMint"
+            android:gravity="center"
+            android:text="본인인증"
+            android:textColor="@color/colorWhite"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="본인인증이 필요합니다."
+            android:textColor="@color/colorRed"
+            android:textSize="12dp"
+            android:visibility="gone" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineHeight="18dp"
+            android:text="본인은 만 14세 이상이며,\n서비스 이용약관과 개인정보 처리방침의 내용을 확인하였으며,\n이에 동의합니다."
+            android:textSize="12dp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="8dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="57dp"
+            android:background="@color/colorDivider" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:text="© 2021 LOAPROPTECH. All rights reserved."
+            android:textAlignment="center"
+            android:textSize="11dp" />
+
+    </LinearLayout>
+</layout>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="100dp"
+        android:orientation="vertical">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp">
+
+            <EditText
+                android:id="@+id/login_email"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/background_border_cgrey"
+                android:hint="이메일을 입력하세요"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                android:textSize="15dp" />
+
+            <ImageView
+                android:id="@+id/login_email_reset"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingEnd="20dp"
+                android:src="@drawable/edittext_reset"
+                android:visibility="gone"
+                app:layout_constraintRight_toRightOf="parent" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp">
+
+            <EditText
+                android:id="@+id/login_pw"
+                android:inputType="textPassword"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/background_border_cgrey"
+                android:hint="비밀번호를 입력하세요"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                android:textSize="15dp" />
+
+            <ImageView
+                android:id="@+id/pw_email_reset"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingEnd="20dp"
+                android:src="@drawable/edittext_reset"
+                android:visibility="gone"
+                app:layout_constraintRight_toRightOf="parent" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <TextView
+            android:id="@+id/login_submit"
+            android:layout_width="match_parent"
+            android:layout_height="46dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/colorMint"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center"
+            android:text="로그인"
+            android:textColor="@color/colorWhite"
+            android:textSize="16dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/login_find_pw"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingStart="10dp"
+                android:text="비밀번호 찾기    "
+                android:textColor="#999999"
+                android:textSize="14dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="|"
+                android:textColor="#999999"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/login_sign_up"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingEnd="10dp"
+                android:text="    회원가입"
+                android:textColor="#999999"
+                android:textSize="14dp" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="8dp"
+            android:layout_marginTop="50dp"
+            android:background="@color/colorDivider" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="30dp"
+            android:gravity="center"
+            android:text="© 2021 LOAPROPTECH. All rights reserved."
+            android:textSize="11dp" />
+
+    </LinearLayout>
+</layout>

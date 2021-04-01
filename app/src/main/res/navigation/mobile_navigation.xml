@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/homeFragment">
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.goodchoice.android.loalending.ui.home.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/loanFragment"
+        android:name="com.goodchoice.android.loalending.ui.loan.LoanFragment"
+        android:label="fragment_loan_detail"
+        tools:layout="@layout/fragment_apply" />
+    <fragment
+        android:id="@+id/myAssetFragment"
+        android:name="com.goodchoice.android.loalending.ui.myAsset.MyAssetFragmentFragment"
+        android:label="fragment_my_asset"
+        tools:layout="@layout/fragment_my_asset" />
+    <fragment
+        android:id="@+id/moreFragment"
+        android:name="com.goodchoice.android.loalending.ui.more.MoreFragment"
+        android:label="fragment_more"
+        tools:layout="@layout/fragment_more" />
+</navigation>

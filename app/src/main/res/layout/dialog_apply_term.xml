@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/dialog_apply_term_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingTop="20dp"
+            android:paddingEnd="20dp"
+            android:src="@drawable/dialog_close"
+            tools:ignore="RtlSymmetry" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:text="개인정보 수집 이용 동의서"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginVertical="20dp"
+            android:paddingHorizontal="20dp"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="[㈜로아프롭테크]가 상품서비스 안내 등을 위하여 본인의 개인(신용)정보를 수집·이용하거나 제3자에게 제공하고자 하는 경우에는 「정보통신망 이용촉진 및 정보보호 등에 관한 법률」 제22조, 제23조의2, 제24조의2, 제25조, 「개인정보 보호법」 제15조 제1항 제1호, 제17조 제1항 제1호, 제22조 제3항, 「신용정보의 이용 및 보호에 관한 법률」 제15조 제2항, 제32조 제1항, 제33조 및 제34조에 따라 본인의 동의가 필요합니다.\n\n
+
+* (금융)거래라 함은 대출 등과 관련된 거래를 의미합니다.\n\n
+
+1. 수집·이용에 관한 사항\n
+①수집·이용 목적	\n
+- 대출 신청 고객의 상담 사무, 대출 상품 안내, 본인 의사 및 본인 여부 확인\n
+②수집·이용할 항목\n
+- 이름/휴대폰번호/담보지주소\n
+③보유·이용 기간\n
+위 개인정보는 수집•이용에 관한 동의일로부터\n
+- 상담이 이루어지지 않은 경우(부재 등) : 5일\n
+- 대출거절고객 : 거절 후 지체 없이 파기\n
+	- 대출실행고객 : 금융거래 종료 후 5년\n
+까지 위 이용 목적을 위하여 보유•이용됩니다. \n
+단, 처리 종료일 후에는 금융사고조사, 분쟁 해결, 민원 처리, 법령상 의무이행 등을 위하여 보유•이용됩니다.\n
+
+※ 고객님은 개인정보 수집 및 이용을 거부할 권리가 있으며, 권리 행사 시 대출신청 및 상담이 불가능 할 수 있습니다."
+                android:textSize="14dp" />
+
+        </ScrollView>
+    </LinearLayout>
+</layout>

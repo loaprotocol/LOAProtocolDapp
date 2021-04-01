@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/secession_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:paddingHorizontal="20dp"
+            android:paddingTop="20dp"
+            android:src="@drawable/dialog_close" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:text="회원 탈퇴"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="20dp"
+            android:text="1. 회원 탈퇴 시, 현재 로그인된 아이디는 즉시 로그아웃 처리됩니다.\n
+2. 회원 탈퇴 시, 회원 전용 서비스 이용이 불가합니다.\n
+3. 회원 정보 및 서비스 이용 기록은 개인정보 처리방침 내 파기방침에 따라 처리됩니다.\n\n
+
+회원 탈퇴 안내사항을 모두 확인하였으며, 동의합니다."
+            android:textSize="14dp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="8dp"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="30dp"
+            android:background="@color/colorDivider" />
+
+        <TextView
+            android:id="@+id/secession_submit"
+            android:layout_marginBottom="40dp"
+            android:layout_width="match_parent"
+            android:layout_height="46dp"
+            android:layout_marginHorizontal="20dp"
+            android:background="@color/colorTextBlack"
+            android:gravity="center"
+            android:text="탈퇴하기"
+            android:textColor="@color/colorWhite"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+</layout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.myAsset.MyAssetFragmentFragment">
+
+    <data>
+
+    </data>
+
+    <LinearLayout
+        android:name="androidx.navigation.fragment.NavHostFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/my_asset_tab"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            app:tabGravity="fill"
+            app:tabIndicatorColor="@color/colorMint"
+            app:tabMode="fixed"
+            app:tabSelectedTextColor="@color/colorTextBlack"
+            app:tabTextAppearance="@style/tabText16"
+            app:tabTextColor="@color/colorCGrey" />
+
+        <FrameLayout
+            android:id="@+id/my_asset_contents"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+
+    </LinearLayout>
+</layout>

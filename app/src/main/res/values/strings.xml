@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">로아렌딩</string>
+    <string name="title_home">홈</string>
+    <string name="title_loan_detail">대출현황</string>
+    <string name="title_loan">대출하기</string>
+    <string name="title_my_asset">내자산관리</string>
+    <string name="title_more">더보기</string>
+    <string name="won">원</string>
+
+</resources>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.more.MoreFragment">
+
+    <data>
+
+    </data>
+
+    <LinearLayout
+        android:name="androidx.navigation.fragment.NavHostFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorMint"
+        android:orientation="vertical"
+        android:paddingTop="60dp"
+        android:paddingBottom="50dp">
+
+        <TextView
+            android:id="@+id/more_login"
+            android:layout_width="140dp"
+            android:layout_height="36dp"
+            android:layout_marginStart="31dp"
+            android:background="@color/colorWhite"
+            android:gravity="center"
+            android:text="로그인"
+            android:textSize="16dp" />
+
+        <TextView
+            android:id="@+id/more_email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="31dp"
+            android:layout_marginTop="5dp"
+            android:text="로그인 후 서비스를 이용하실 수 있습니다."
+            android:textColor="@color/colorWhite"
+            android:textSize="12dp" />
+
+        <TextView
+            android:id="@+id/more_company_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="31dp"
+            android:layout_marginTop="41dp"
+            android:text="회사소개"
+            android:textColor="@color/colorWhite"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/more_term"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="31dp"
+            android:layout_marginTop="32dp"
+            android:text="이용약관"
+            android:textColor="@color/colorWhite"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/more_privacy_policy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="31dp"
+            android:layout_marginTop="32dp"
+            android:text="개인정보 처리방침"
+            android:textColor="@color/colorWhite"
+            android:textSize="18dp" />
+
+        <!--        <LinearLayout-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:layout_marginStart="31dp"-->
+        <!--            android:layout_marginTop="32dp"-->
+        <!--            android:orientation="horizontal">-->
+
+        <!--            <TextView-->
+        <!--                android:layout_width="wrap_content"-->
+        <!--                android:layout_height="wrap_content"-->
+        <!--                android:text="알림설정"-->
+        <!--                android:textColor="@color/colorWhite"-->
+        <!--                android:textSize="18dp" />-->
+
+        <!--            <View-->
+        <!--                android:layout_width="0dp"-->
+        <!--                android:layout_height="0dp"-->
+        <!--                android:layout_weight="1" />-->
+
+        <!--            <ImageView-->
+        <!--                android:layout_width="wrap_content"-->
+        <!--                android:layout_height="wrap_content"-->
+        <!--                android:layout_gravity="right"-->
+        <!--                android:layout_marginEnd="30dp"-->
+        <!--                android:src="@drawable/more_alarm" />-->
+
+        <!--        </LinearLayout>-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="31dp"
+            android:layout_marginTop="32dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="앱버전"
+                android:textColor="@color/colorWhite"
+                android:textSize="18dp" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/more_version"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="30dp"
+                android:textColor="@color/colorWhite"
+                android:textSize="18dp" />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginBottom="30dp"
+            android:background="@color/colorWhite" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginBottom="3dp"
+            android:gravity="bottom"
+            android:text="고객센터 10:00~19:00(점심 12:30~13:30) 토, 일, 공휴일 휴무"
+            android:textColor="@color/colorWhite"
+            android:textSize="11dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginBottom="3dp"
+            android:gravity="bottom"
+            android:text="전화  02-597-6778"
+            android:textColor="@color/colorWhite"
+            android:textSize="11dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginBottom="3dp"
+            android:gravity="bottom"
+            android:text="팩스  02-597-6772"
+            android:textColor="@color/colorWhite"
+            android:textSize="11dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginBottom="3dp"
+            android:gravity="bottom"
+            android:text="대표메일 admin@loaproptech.com "
+            android:textColor="@color/colorWhite"
+            android:textSize="11dp" />
+
+        <!--        <TextView-->
+        <!--            android:layout_width="wrap_content"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:layout_marginStart="30dp"-->
+        <!--            android:layout_marginBottom="3dp"-->
+        <!--            android:gravity="bottom"-->
+        <!--            android:text="대표메일  help.loafunding.com"-->
+        <!--            android:textColor="@color/colorWhite"-->
+        <!--            android:textSize="11dp" />-->
+
+        <!--        <TextView-->
+        <!--            android:layout_width="wrap_content"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:layout_marginStart="30dp"-->
+        <!--            android:gravity="bottom"-->
+        <!--            android:text="제휴문의  partner.loafunding.com"-->
+        <!--            android:textColor="@color/colorWhite"-->
+        <!--            android:textSize="11dp" />-->
+
+    </LinearLayout>
+</layout>

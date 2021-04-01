@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+    </data>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="21dp"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="20dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="4dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/colorMint" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginStart="5dp"
+                    android:text="총 잔액(원화, LOA, LKRW)"
+                    android:textSize="14dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="right"
+                    android:text="가격"
+                    android:textSize="18dp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="8dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="30dp"
+                android:background="@color/colorDivider" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="21dp"
+                android:layout_marginHorizontal="20dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginStart="5dp"
+                    android:text="총 보유 원화"
+                    android:textSize="13dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="right"
+                    android:text="가격"
+                    android:textSize="18dp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="26dp"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/my_asset_deposit_basic"
+                    android:layout_width="50dp"
+                    android:layout_height="26dp"
+                    android:layout_gravity="right"
+                    android:background="@drawable/background_border_mint"
+                    android:gravity="center"
+                    android:text="입금"
+                    android:textSize="12dp" />
+
+                <TextView
+                    android:id="@+id/my_asset_withdraw_basic"
+                    android:layout_width="50dp"
+                    android:layout_height="26dp"
+                    android:layout_gravity="right"
+                    android:layout_marginHorizontal="5dp"
+                    android:background="@drawable/background_border_mint"
+                    android:gravity="center"
+                    android:text="출금"
+                    android:textSize="12dp" />
+
+                <TextView
+                    android:id="@+id/my_asset_exchange_basic"
+                    android:layout_width="50dp"
+                    android:layout_height="26dp"
+                    android:layout_gravity="right"
+                    android:background="@drawable/background_border_mint"
+                    android:gravity="center"
+                    android:text="환전"
+                    android:textSize="12dp" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginTop="20dp"
+                android:background="@color/colorDivider"
+                android:drawableRight="@drawable/ic_keyboard_arrow_right_24_px"
+                android:gravity="center_vertical"
+                android:paddingHorizontal="20dp"
+                android:text="최근 거래 내역"
+                android:textSize="13dp" />
+
+
+            <TextView
+                android:id="@+id/my_asset_transaction_none"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="110dp"
+                android:text="내역이 없습니다."
+                android:textAlignment="center"
+                android:textSize="13dp" />
+
+            <ImageView
+                android:id="@+id/my_asset_transaction_none_divider"
+                android:layout_width="match_parent"
+                android:layout_height="8dp"
+                android:layout_marginBottom="10dp"
+                android:background="@color/colorDivider" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/fragment_my_asset_transaction_rv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginTop="20dp"
+                android:background="@color/colorDivider"
+                android:drawableRight="@drawable/ic_keyboard_arrow_right_24_px"
+                android:gravity="center_vertical"
+                android:paddingHorizontal="20dp"
+                android:text="최근 미처리 내역"
+                android:textSize="13dp" />
+
+
+            <TextView
+                android:id="@+id/my_asset_untreated_none"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="110dp"
+                android:text="내역이 없습니다."
+                android:textAlignment="center"
+                android:textSize="13dp" />
+
+            <ImageView
+                android:id="@+id/my_asset_untreated_nine_divider"
+                android:layout_width="match_parent"
+                android:layout_height="8dp"
+                android:layout_marginBottom="10dp"
+                android:background="@color/colorDivider" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/fragment_my_asset_untreated_rv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone" />
+
+        </LinearLayout>
+    </ScrollView>
+</layout>
